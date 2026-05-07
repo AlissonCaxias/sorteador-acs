@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias Utilizadas
 
-| Tecnologia | Uso |
+|Tecnologia | Uso |
 |---|---|
 | **HTML5** | Estrutura semântica da página |
 | **CSS3 (Vanilla)** | Estilização completa com Flexbox |
@@ -95,7 +95,7 @@ if (qnt > 6) {
 
 ## ▶️ Como Executar
 
-Não requer instalação. Clique aqui para executar: [Sorteador ACS Digital](https://alissoncaxias.github.io/sorteador-acs/)
+Não requer instalação. Clique aqui para executar: [Sorteador ACS Digital]('https://img.shields.io/badge/-(https://alissoncaxias.github.io/sorteador-acs/)-628f89?style=for-the-badge')
 
 ---
 
