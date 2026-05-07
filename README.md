@@ -95,7 +95,10 @@ if (qnt > 6) {
 
 ## ▶️ Como Executar
 
-Não requer instalação. Clique aqui para executar: [Sorteador ACS Digital]('https://img.shields.io/badge/-(https://alissoncaxias.github.io/sorteador-acs/)-628f89?style=for-the-badge')
+Não requer instalação. Clique aqui para executar: <br>
+<a href='https://alissoncaxias.github.io/sorteador-acs'>
+    <img src='https://img.shields.io/badge/-Sorteador%20ACS%20Digital-628f89?style=for-the-badge'>
+</a>
 
 ---
 
