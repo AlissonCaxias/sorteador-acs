@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorteador_ACS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <main>
+        <section>
+            <div class="boxImageTitle">
+                <img src="./assets/Cube3d.gif" alt="cubo 3D girando">
+                <h1>Sorteador ACS Digital DevClub</h1>
+            </div>
+            <form action="">
+                <div class="row line1">
+                    <label for="qntAsortear">Quantos números sortear?</label>
+                    <input type="text" id="qntAsortear" placeholder="Número">
+                </div>
+                <div class="row line2">
+                    <label for="min">Sortear entre:</label>
+                    <input type="text" id="min" placeholder="Número">
+                    <label for="max">e</label>
+                    <input type="text" id="max" placeholder="Número">
+                </div>
+                <button type="button">Sortear Agora!</button>
+            </form>
+            <div class="row line3">
+                <label id="labelResultado"></label>
+                <div id="resultado" class="resultado-container"></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="scripts.js" defer></script>
+</body>
+
+</html>
