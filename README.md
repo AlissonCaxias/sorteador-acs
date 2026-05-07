@@ -104,4 +104,4 @@ Não requer instalação. Clique aqui para executar: <br>
 
 ## 👨‍💻 Autoria
 
-Desenvolvido por **Alisson C. Silva** como parte das trilhas **Aula de JS na DevClub**.
+Desenvolvido por mim **Alisson Caxias** como parte das trilhas **Aula de JS na DevClub**.
